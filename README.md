@@ -5,6 +5,8 @@ The code for the [Streamlit][st] demo app discussed in the [Deploying Machine Le
 [st]: https://streamlit.io/
 [st-article]: https://tim-abwao.github.io/2023/07/Deploying-Machine-Learning-Models-with-Streamlit
 
+![screencast of the app](https://github.com/Tim-Abwao/tim-abwao.github.io/blob/main/assets/images/articles/streamlit-demo/screencast.gif?raw=true)
+
 ## Running locally
 
 1. Fetch the necessary files:
